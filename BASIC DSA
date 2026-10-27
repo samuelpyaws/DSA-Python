@@ -1,0 +1,56 @@
+1. Arrays
+Start here
+- #1480 — Running Sum of 1d Array
+- #1929 — Concatenation of Array
+- #217 — Contains Duplicate
+- #1 — Two Sum
+- #121 — Best Time to Buy and Sell Stock
+- #238 — Product of Array Except Self
+- #53 — Maximum Subarray
+- #189 — Rotate Array
+
+2. Strings
+- #344 — Reverse String
+- #125 — Valid Palindrome
+- #14 — Longest Common Prefix
+- #242 — Valid Anagram
+- #28 — Find the Index of the First Occurrence in a String
+- #49 — Group Anagrams
+- #3 — Longest Substring Without Repeating Characters
+
+3. Hashing and Frequency Counting
+- #1 — Two Sum
+- #217 — Contains Duplicate
+- #242 — Valid Anagram
+- #383 — Ransom Note
+- #169 — Majority Element
+- #347 — Top K Frequent Elements
+- #128 — Longest Consecutive Sequence
+
+4. Two Pointers
+- #167 — Two Sum II - Input Array Is Sorted
+- #283 — Move Zeroes
+- #344 — Reverse String
+- #125 — Valid Palindrome
+- #11 — Container With Most Water
+- #15 — 3Sum
+- #26 — Remove Duplicates from Sorted Array
+
+
+5. Sliding Window
+- #643 — Maximum Average Subarray I
+- #121 — Best Time to Buy and Sell Stock
+- #3 — Longest Substring Without Repeating Characters
+- #209 — Minimum Size Subarray Sum
+- #424 — Longest Repeating Character Replacement
+- #567 — Permutation in String
+- #76 — Minimum Window Substring
+
+6. Prefix Sum
+- #1480 — Running Sum of 1d Array
+- #303 — Range Sum Query - Immutable
+- #724 — Find Pivot Index
+- #1732 — Find the Highest Altitude
+- #560 — Subarray Sum Equals K
+- #525 — Contiguous Array
+
